@@ -1,0 +1,7 @@
+# OPTIONAL, BUILD-SPECIFIC EXAMPLE ONLY.
+# Confirm each feature exists in the CLI associated with your actual client.
+# Merge into an existing [features] table; do not overwrite your whole config.
+# These feature names are observations, not universal public configuration keys.
+[features]
+respect_system_proxy = true
+system_proxy_fallback = true
